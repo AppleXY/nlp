@@ -1,7 +1,7 @@
 # machine translation 
 |Conference     |Time           |paper                                                                    |link       |
 |:--------------|:-------------:|:-----------------------------------------------------------------------:|----------:|
-|ACL            |2018           |Unsupervised Neural Machine Translation with Weight Sharing              |
+|ACL            |2018           |Unsupervised Neural Machine Translation with Weight Sharing              |           |
 
-[link](https://aclweb.org/anthology/papers/P/P18/P18-1005/)|
+[link](https://aclweb.org/anthology/papers/P/P18/P18-1005/)
 
