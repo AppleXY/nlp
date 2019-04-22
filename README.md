@@ -7,6 +7,8 @@
 |ACL        |2018 | A Stochastic Decoder for Neural Machine Translation             |[link][4]|
 |ACL        |2018 |Context-Aware Neural Machine Translation Learns Anaphora Resolution            |[link][5]|
 |TACL       |2016 |Enriching Word Vectors with Subword Information         |[link][6]|
+|nips       |2017 |Inductive Representation Learning on Large Graphs         |[link][7]|
+
 
 
 [1]:https://aclweb.org/anthology/papers/P/P18/P18-1005/
@@ -15,4 +17,5 @@
 [4]:https://www.aclweb.org/anthology/P18-1115
 [5]:https://www.aclweb.org/anthology/P18-1117
 [6]:https://arxiv.org/pdf/1607.04606.pdf
+[7]:http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf
 
