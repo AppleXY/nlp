@@ -8,7 +8,7 @@
 |ACL        |2018 |Context-Aware Neural Machine Translation Learns Anaphora Resolution            |[link][5]|
 
 
-#Representation learning
+# Representation learning
 |Conference |Time |paper                                                                                          |      link|
 |TACL       |2016 |Enriching Word Vectors with Subword Information         |[link][6]|
 |nips       |2017 |Inductive Representation Learning on Large Graphs         |[link][7]|
