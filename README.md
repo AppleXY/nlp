@@ -13,6 +13,7 @@
 |:----------|:----|:----------------------------------------------------------------------------------------------|---------:|
 |TACL       |2016 |Enriching Word Vectors with Subword Information         |[link][6]|
 |NIPS       |2017 |Inductive Representation Learning on Large Graphs         |[link][7]|
+|KDD       |2014 |DeepWalk: Online Learning of Social Representations         |[link][8]|
 
 
 
@@ -24,4 +25,5 @@
 [5]:https://www.aclweb.org/anthology/P18-1117
 [6]:https://arxiv.org/pdf/1607.04606.pdf
 [7]:http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf
+[8]:https://arxiv.org/pdf/1403.6652.pdf
 
