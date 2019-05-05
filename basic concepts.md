@@ -2,3 +2,5 @@ a fantastic explanation about [Hierarchical Softmax](http://building-babylon.net
 
 
 an excellent tutorial of [skip-gram model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) and negative sampling
+
+Graph convolutional networks [GCN](https://tkipf.github.io/graph-convolutional-networks/) 
