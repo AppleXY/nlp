@@ -20,6 +20,8 @@
 |NIPS      |2017 |Inductive Representation Learning on Large Graphs   |[link][12]|
 |NIPS      |2018 |Hierarchical Graph Representation Learning with Differentiable Pooling  |[link][13]|
 |ICLR      |2018 |FASTGCN: FAST LEARNING WITH GRAPH CONVOLU- TIONAL NETWORKS VIA IMPORTANCE SAMPLING  |[link][14]|
+|ICLR      |2017 |Semi-Supervised Classification with Graph Convolutional Networks  |[link][15]|
+
 
 
 
@@ -42,6 +44,7 @@
 [12]:https://arxiv.org/pdf/1706.02216.pdf
 [13]:https://arxiv.org/pdf/1806.08804.pdf
 [14]:https://arxiv.org/pdf/1801.10247.pdf
+[15]:https://arxiv.org/pdf/1609.02907.pdf
 
 
 
