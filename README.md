@@ -14,6 +14,16 @@
 |TACL       |2016 |Enriching Word Vectors with Subword Information         |[link][6]|
 |NIPS       |2017 |Inductive Representation Learning on Large Graphs         |[link][7]|
 |KDD       |2014 |DeepWalk: Online Learning of Social Representations         |[link][8]|
+|ICML      |2016 |Learning Convolutional Neural Networks for Graphs    |[link][9]|
+|ICLR      |2018 |Graph attention networks    |[link][10]|
+|KDD      |2016 |node2vec: Scalable Feature Learning for Networks    |[link][11]|
+|NIPS      |2017 |Inductive Representation Learning on Large Graphs   |[link][12]|
+|NIPS      |2018 |Hierarchical Graph Representation Learning with Differentiable Pooling  |[link][13]|
+|ICLR      |2018 |FASTGCN: FAST LEARNING WITH GRAPH CONVOLU- TIONAL NETWORKS VIA IMPORTANCE SAMPLING  |[link][14]|
+
+
+
+
 
 
 
@@ -26,4 +36,15 @@
 [6]:https://arxiv.org/pdf/1607.04606.pdf
 [7]:http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf
 [8]:https://arxiv.org/pdf/1403.6652.pdf
+[9]:https://arxiv.org/pdf/1605.05273.pdf
+[10]:https://arxiv.org/pdf/1710.10903.pdf
+[11]:https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf
+[12]:https://arxiv.org/pdf/1706.02216.pdf
+[13]:https://arxiv.org/pdf/1806.08804.pdf
+[14]:https://arxiv.org/pdf/1801.10247.pdf
+
+
+
+
+
 
