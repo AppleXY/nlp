@@ -7,4 +7,4 @@ Graph convolutional networks [GCN](https://tkipf.github.io/graph-convolutional-n
 
 WL algorithm [slide](https://www.slideshare.net/pratikshukla11/graph-kernelpdf)
 
-how to write proper code[slide](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/preview?slide=id.g44a8796521_0_73)
+writting code for nlp research [ppt](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)
