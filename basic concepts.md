@@ -6,3 +6,5 @@ an excellent tutorial of [skip-gram model](http://mccormickml.com/2016/04/19/wor
 Graph convolutional networks [GCN](https://tkipf.github.io/graph-convolutional-networks/) 
 
 WL algorithm [slide](https://www.slideshare.net/pratikshukla11/graph-kernelpdf)
+
+how to write proper code[slide](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/preview?slide=id.g44a8796521_0_73)
