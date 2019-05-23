@@ -21,6 +21,7 @@
 |NIPS      |2018 |Hierarchical Graph Representation Learning with Differentiable Pooling  |[link][13]|
 |ICLR      |2018 |FASTGCN: FAST LEARNING WITH GRAPH CONVOLU- TIONAL NETWORKS VIA IMPORTANCE SAMPLING  |[link][14]|
 |ICLR      |2017 |Semi-Supervised Classification with Graph Convolutional Networks  |[link][15]|
+|ICLR      |2016 |GATED GRAPH SEQUENCE NEURAL NETWORKS |[link][16]|
 
 
 
@@ -45,6 +46,7 @@
 [13]:https://arxiv.org/pdf/1806.08804.pdf
 [14]:https://arxiv.org/pdf/1801.10247.pdf
 [15]:https://arxiv.org/pdf/1609.02907.pdf
+[16]:https://arxiv.org/pdf/1511.05493.pdf
 
 
 
