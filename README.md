@@ -23,7 +23,7 @@
 |ICLR      |2017 |Semi-Supervised Classification with Graph Convolutional Networks  |[link][15]|
 |ICLR      |2016 |GATED GRAPH SEQUENCE NEURAL NETWORKS |[link][16]|
 |ICML      |2019 |MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing |[link][17]|
-
+|NIPS      |2016 |Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering |[link][18]|
 
 
 
@@ -50,6 +50,7 @@
 [15]:https://arxiv.org/pdf/1609.02907.pdf
 [16]:https://arxiv.org/pdf/1511.05493.pdf
 [17]:https://arxiv.org/pdf/1905.00067.pdf
+[18]:https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf
 
 
 
