@@ -7,7 +7,7 @@
 |ACL        |2018 | A Stochastic Decoder for Neural Machine Translation             |[link][4]|
 |ACL        |2018 |Context-Aware Neural Machine Translation Learns Anaphora Resolution            |[link][5]|
 |arxiv       |2013 |Generating Sequences With Recurrent Neural Networks          |[link][19]|
-|       |2013 |Generating Sequences With Recurrent Neural Networks          |[link][19]|
+
 
 
 
