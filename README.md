@@ -6,6 +6,10 @@
 |ACL        |2018 |Graph-to-Sequence Learning using Gated Graph Neural Networks                                   |[link*][3]|
 |ACL        |2018 | A Stochastic Decoder for Neural Machine Translation             |[link][4]|
 |ACL        |2018 |Context-Aware Neural Machine Translation Learns Anaphora Resolution            |[link][5]|
+|arxiv       |2013 |Generating Sequences With Recurrent Neural Networks          |[link][19]|
+|       |2013 |Generating Sequences With Recurrent Neural Networks          |[link][19]|
+
+
 
 
 # Representation learning
@@ -51,7 +55,7 @@
 [16]:https://arxiv.org/pdf/1511.05493.pdf
 [17]:https://arxiv.org/pdf/1905.00067.pdf
 [18]:https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf
-
+[19]:https://arxiv.org/pdf/1308.0850.pdf 
 
 
 
