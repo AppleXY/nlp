@@ -29,7 +29,10 @@
 |ICML      |2019 |MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing |[link][17]|
 |NIPS      |2016 |Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering |[link][18]|
 
-
+# Graph Neural Networks
+|Conference |Time |paper                                                                                          |      link|
+|:----------|:----|:----------------------------------------------------------------------------------------------|---------:|
+|NeurIPS       |2021 |Adversarial Graph Augmentation to Improve Graph Contrastive Learning        |[link][20]|
 
 
 
@@ -56,7 +59,7 @@
 [17]:https://arxiv.org/pdf/1905.00067.pdf
 [18]:https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf
 [19]:https://arxiv.org/pdf/1308.0850.pdf 
-
+[20]:https://arxiv.org/pdf/2106.05819.pdf
 
 
 
